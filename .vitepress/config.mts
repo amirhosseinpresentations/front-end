@@ -5,6 +5,7 @@ import sidebar from "./sidebar";
 export default defineConfig({
   title: "Front-end Roadmap",
   description: "All you have to know as a front-end developer",
+  base: "/front-end/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
